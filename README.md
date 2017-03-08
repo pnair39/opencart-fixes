@@ -3,7 +3,8 @@ Opencart Fixes and files
 
 Please remember to
 
-Follow changes as indicated by  Dev branch info above.
+Follow changes as indicated by  Dev branch.
+
 example:
 
 orders:
