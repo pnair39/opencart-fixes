@@ -1,0 +1,13 @@
+2.3.0.2-compiled\upload\catalog\model\catalog\review.php:
+   38  
+   39  			// Send to additional alert emails
+   40: 			$emails = explode(',', $this->config->get('config_alert_email'));
+   41  
+   42  			foreach ($emails as $email) {
+
+2.3.0.2-compiled\upload\catalog\model\checkout\order.php:
+  747  	
+  748  					// Send to additional alert emails
+  749: 					$emails = explode(',', $this->config->get('config_alert_email'));
+  750  	
+  751  					foreach ($emails as $email) {
